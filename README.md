@@ -17,13 +17,14 @@ Shuyun Wang<sup>1</sup>,  Haiyang Sun<sup>2†</sup>,  Bing Wang<sup>2</sup>, Ha
 ## Video Demonstrations
 
 ### Sequential Comparison
-[![Sequential Demo](assets/gifs/sequential.gif)](assets/demo_sequential.mp4)
+[![Sequential Demo](assets/demo_sequential.mp4)](assets/demo_sequential.mp4)
 
 ### Method Comparison
-[![Comparison Demo](assets/gifs/compare.gif)](assets/demo_compare.mp4)
+[![Comparison Demo](assets/demo_sequential.mp4)](assets/demo_compare.mp4)
 
 ### U-turn Editing
-[![U-turn Demo](assets/gifs/uturn.gif)](assets/demo_uturn.mp4)
+[![U-turn Demo](assets/demo_sequential.mp4)](assets/demo_uturn.mp4)
+
 
 <!-- ## Introduction -->
 ## Abstract
