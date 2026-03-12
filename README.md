@@ -14,6 +14,22 @@ Shuyun Wang<sup>1</sup>,  Haiyang Sun<sup>2†</sup>,  Bing Wang<sup>2</sup>, Ha
 <a href="https://github.com/wm-research/mirage"><img src='https://img.shields.io/badge/code-Mirage-green' alt='code'></a>
 </div>
 
+## Video Demonstrations
+
+### Sequential Comparison
+Naive insertion vs Mirage across different object categories.
+
+https://github.com/Shuyun-Wang/mirage/blob/main/assets/demo_sequential.mp4
+
+### Method Comparison
+Comparison between naive insertion, R3D2, Mirage, and ground truth.
+
+https://github.com/Shuyun-Wang/mirage/blob/main/assets/demo_compare.mp4
+
+### U-turn Editing
+Controllable editing example corresponding to the teaser in the paper.
+
+https://github.com/Shuyun-Wang/mirage/blob/main/assets/demo_uturn.mp4
 
 <!-- ## Introduction -->
 ## Abstract
