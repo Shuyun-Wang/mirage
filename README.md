@@ -16,15 +16,23 @@ Shuyun Wang<sup>1</sup>,  Haiyang Sun<sup>2†</sup>,  Bing Wang<sup>2</sup>, Ha
 
 ## Video Demonstrations
 
-### Sequential Comparison
-[▶ Watch Video](assets/demo_sequential.mp4)
+### 👨🏻‍🎨 Multi-Asset Insertion
+<table>
+<tr>
+   <td> 
+      <img src="assets/demo_sequential.gif">
+   </td>
+</tr>
+</table>
 
-### Method Comparison
-[▶ Watch Video](assets/demo_compare.mp4)
-
-### U-turn Editing
-[▶ Watch Video](assets/demo_uturn.mp4)
-
+### 🎨 U-turn Editing
+<table>
+<tr>
+   <td> 
+      <img src="assets/demo_uturn.gif">
+   </td>
+</tr>
+</table>
 
 <!-- ## Introduction -->
 ## Abstract
@@ -36,6 +44,15 @@ supervision. Extensive experiments demonstrate that Mirage achieves high realism
 <img src="assets/images/framework.png" width="1000">
 </div>
 
+## Method Comparison
+<table>
+<tr>
+   <td> 
+      <img src="assets/demo_compare.gif">
+   </td>
+</tr>
+</table>
+
 ## News
 <!-- `[2025/12/31]` [ArXiv](https://arxiv.org/abs/2506.07497) paper release. Models/Code are coming soon. Please stay tuned! ☕️ -->
 
@@ -44,7 +61,6 @@ supervision. Extensive experiments demonstrate that Mirage achieves high realism
 - [ ] Release Full Models  
 - [ ] Release Inference Framework 
 - [ ] Release Training Framework 
-
 
 ## Citation
 If you find Mirage is useful in your research or applications, please consider giving us a star 🌟 and citing it by the following BibTeX entry.
