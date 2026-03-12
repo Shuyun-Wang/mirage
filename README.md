@@ -14,22 +14,11 @@ Shuyun Wang<sup>1</sup>,  Haiyang Sun<sup>2†</sup>,  Bing Wang<sup>2</sup>, Ha
 <a href="https://github.com/wm-research/mirage"><img src='https://img.shields.io/badge/code-Mirage-green' alt='code'></a>
 </div>
 
-## Video Demonstrations
-
-### 👨🏻‍🎨 Multi-Asset Insertion
+## 👨🏻‍🎨 Multi-Asset Insertion
 <table>
 <tr>
    <td> 
       <img src="assets/demo_sequential.gif">
-   </td>
-</tr>
-</table>
-
-### 🎨 U-turn Editing
-<table>
-<tr>
-   <td> 
-      <img src="assets/demo_uturn.gif">
    </td>
 </tr>
 </table>
